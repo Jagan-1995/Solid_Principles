@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e85d853-c85e-49c1-b1b2-2d1409f06493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/AndroidFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/Flutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/IOSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/UIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/UIFactoryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/WindowsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/AndroidButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/IOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/AndriodDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/IOSDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/WindowsDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Menu/WindowsMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/constants/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/helper/Helper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,9 +42,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ieCU299oNWYg3THaVFtBZnDGqz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,7 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Client.executor": "Debug",
+    "Application.Client.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -59,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719841678878</updated>
-      <workItem from="1719841680018" duration="7997000" />
+      <workItem from="1719841680018" duration="8472000" />
+      <workItem from="1719991259436" duration="4557000" />
     </task>
     <servers />
   </component>
