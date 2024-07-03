@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e85d853-c85e-49c1-b1b2-2d1409f06493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/AndroidFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/Flutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/IOSFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/UIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/UIFactoryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/WindowsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/AndroidButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/IOSButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Button/WindowsButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/AndriodDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/IOSDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/DropDown/WindowsDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/components/Menu/WindowsMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/constants/Platform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factory/helper/Helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Factory/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719841678878</updated>
       <workItem from="1719841680018" duration="8472000" />
-      <workItem from="1719991259436" duration="4557000" />
+      <workItem from="1719991259436" duration="4908000" />
     </task>
     <servers />
   </component>
