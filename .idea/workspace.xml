@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e85d853-c85e-49c1-b1b2-2d1409f06493" name="Changes" comment="" />
+    <list default="true" id="0e85d853-c85e-49c1-b1b2-2d1409f06493" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype/IntelligentStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Prototype/StudentRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Client.executor": "Run",
+    "Application.Client.executor": "Debug",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,6 +64,8 @@
       <updated>1719841678878</updated>
       <workItem from="1719841680018" duration="8472000" />
       <workItem from="1719991259436" duration="5162000" />
+      <workItem from="1720060987954" duration="1416000" />
+      <workItem from="1720194513544" duration="5039000" />
     </task>
     <servers />
   </component>
@@ -70,6 +79,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Builder/Client.java</url>
           <line>22</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Prototype/Client.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
