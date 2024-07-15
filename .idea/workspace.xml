@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e85d853-c85e-49c1-b1b2-2d1409f06493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Structural/Decorator/ChocoChips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Structural/Decorator/ChocolateCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Structural/Decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Structural/Decorator/IceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Structural/Decorator/OrangeCone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Structural/Decorator/StrawberryScoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Structural/Decorator/VanillaScoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Behavioural/Observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Behavioural/Observer/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Behavioural/Observer/Flipkart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Behavioural/Observer/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Behavioural/Observer/InvoiceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Behavioural/Observer/OnOrderPlacedSubscriber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Client.executor": "Debug",
+    "Application.Client.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PhonePe.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -79,7 +78,7 @@
       <workItem from="1720260209449" duration="640000" />
       <workItem from="1720283420172" duration="3000" />
       <workItem from="1720674889996" duration="6322000" />
-      <workItem from="1721012397269" duration="2702000" />
+      <workItem from="1721012397269" duration="5016000" />
     </task>
     <servers />
   </component>
